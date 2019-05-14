@@ -1,11 +1,11 @@
 {
     "name": "cav/test_com",
     "description": "test",
-    "type": "proprietary",
+    "type": "library",
     "require": {
         "php": ">=5.3.0"
     },
-    "license": "cav",
+    "license": "proprietary",
     "authors": [
         {
             "name": "肖凡",
