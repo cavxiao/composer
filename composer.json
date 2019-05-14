@@ -1,0 +1,11 @@
+{
+  "name":"cav/cav_demo",
+  "description":"cav first demo test packagist",
+  "license":"cav",
+  "authors":[
+    {
+      "name":"cav",
+      "email":"445420075@qq.com"
+    }
+  ]
+}
