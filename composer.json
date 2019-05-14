@@ -16,5 +16,11 @@
         "psr-4": {
             "demo\\Test\\": "src/demo/Test"
         }
-    }
+    },
+    "config": {
+        "process-timeout": 1800,
+        "github-oauth": {
+            "github.com": "78196626777479d989d8aee8e34fcd91678db963"
+        }
+    },
 }
