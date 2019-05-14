@@ -1,26 +1,27 @@
 {
-    "name": "cav/test_com",
-    "description": "test",
-    "type": "library",
-    "require": {
-        "php": ">=5.3.0"
-    },
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "肖凡",
-            "email": "3004635919@qq.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "demo\\Test\\": "src/demo/Test"
-        }
-    },
-    "config": {
-        "process-timeout": 1800,
-        "github-oauth": {
-            "github.com": "78196626777479d989d8aee8e34fcd91678db963"
-        }
+  "name": "cav/test_com",
+  "minimum-stability": "dev",
+  "description": "test",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "肖凡",
+      "email": "3004635919@qq.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "demo\\Test\\": "src/demo/Test"
+    }
+  },
+  "config": {
+    "process-timeout": 1800,
+    "github-oauth": {
+      "github.com": "78196626777479d989d8aee8e34fcd91678db963"
+    }
+  }
 }
