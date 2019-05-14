@@ -1,7 +1,8 @@
 {
   "name":"cav/cav_demo",
   "description":"cav first demo test packagist",
-  "license":"proprietary",
+  "minimum-stability": "dev",
+  "license":"cav",
   "authors":[
     {
       "name":"cav",
